@@ -269,3 +269,6 @@ with tab2:
                 st.divider()
         except:
             st.info("등록된 착샷 게시물이 없습니다. 첫 번째 착샷을 공유해 보세요!")
+streamlit
+supabase
+three-js
